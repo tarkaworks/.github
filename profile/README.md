@@ -2,7 +2,7 @@
 
 At Tarkaworks, we are committed to building blocks for the agentic era.
 
-| [soubi][1] | [![soubi][2]][1] | | |
+| [Soubi][1] | [![Soubi][2]][1] | | |
 | :-: | :-: | :-: | :-: |
 
 [1]: https://github.com/tarkaworks/soubi
